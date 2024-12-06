@@ -15,7 +15,7 @@ export const metadata = {
       "My personal Portfolio",
   },
   description:
-    "My personal portfolio created with Next.js, Tailwind CSS and Framer Motion.",
+    "My personal portfolio created with Next.js, Tailwind CSS, and Framer Motion.",
 };
 
 export default function RootLayout({ children }) {
