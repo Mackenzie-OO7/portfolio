@@ -1,45 +1,46 @@
-export const projectsData = [
-  {
-    id: 1,
-    name: "EcoTracker",
-    description: "Track your carbon footprint",
-    date: "2023-08-15",
-    demoLink: "",
-  },
-  {
-    id: 2,
-    name: "ArtGallery Online",
-    description: "Digital art showcase platform",
-    date: "2023-06-20",
-    demoLink: "",
-  },
-  {
-    id: 3,
-    name: "BudgetPlanner",
-    description: "Plan and track expenses",
-    date: "2023-09-10",
-    demoLink: "",
-  },
-  {
-    id: 4,
-    name: "HealthBeat",
-    description: "Monitor heart rate zones",
-    date: "2022-05-30",
-    demoLink: "",
-  },
-  {
-    id: 5,
-    name: "RecipeFinder",
-    description: "Discover new recipes",
-    date: "2022-07-12",
-    demoLink: "",
-  },
-];
+// TODO: Replace with cards of your actual projects
+// export const projectsData = [
+//   {
+//     id: 1,
+//     name: "EcoTracker",
+//     description: "Track your carbon footprint",
+//     date: "2023-08-15",
+//     demoLink: "",
+//   },
+//   {
+//     id: 2,
+//     name: "ArtGallery Online",
+//     description: "Digital art showcase platform",
+//     date: "2023-06-20",
+//     demoLink: "",
+//   },
+//   {
+//     id: 3,
+//     name: "BudgetPlanner",
+//     description: "Plan and track expenses",
+//     date: "2023-09-10",
+//     demoLink: "",
+//   },
+//   {
+//     id: 4,
+//     name: "HealthBeat",
+//     description: "Monitor heart rate zones",
+//     date: "2022-05-30",
+//     demoLink: "",
+//   },
+//   {
+//     id: 5,
+//     name: "RecipeFinder",
+//     description: "Discover new recipes",
+//     date: "2022-07-12",
+//     demoLink: "",
+//   },
+// ];
 
 export const BtnList = [
   { label: "Home", link: "/", icon: "home", newTab: false },
   { label: "About", link: "/about", icon: "about", newTab: false },
-  { label: "Projects", link: "/projects", icon: "projects", newTab: false },
+  { label: "Projects", link: "", icon: "projects", newTab: false },
   { label: "Contact", link: "/contact", icon: "contact", newTab: false },
   {
     label: "Github",
